@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67bf51e07710edbe2900ca82"
+  },
+  "attribute_name": "8gb ram 512gb ssd",
+  "attribute_price": "2000",
+  "product_id": "67bec5f07710edbe2900ca26",
+  "updated_at": {
+    "$date": "2025-02-26T17:40:13.896Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T17:39:44.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bf51f57710edbe2900ca83"
+  },
+  "attribute_name": "16gb ram 1tb ssd",
+  "attribute_price": "4000",
+  "product_id": "67bec5f07710edbe2900ca26",
+  "updated_at": {
+    "$date": "2025-02-26T17:41:16.233Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T17:40:05.015Z"
+  }
+}]

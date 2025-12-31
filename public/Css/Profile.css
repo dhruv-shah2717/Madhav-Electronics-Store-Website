@@ -1,0 +1,72 @@
+/* Start of Profile Section */
+
+/* Info Card Styles */
+.profile-section .info-card {
+    border: none;
+    border-radius: 0;
+    margin-bottom: 14px;
+}
+
+/* Profile Info Styles */
+.profile-section .profile-info {
+    text-align: center;
+    padding: 30px 0;
+    background-color: var(--Dgray);
+}
+
+.profile-section .info-img {
+    width: 160px;
+    height: 180px;
+}
+
+.profile-section .info-name {
+    margin: 25px 0;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* Info Buttons Styles */
+.profile-section .info-buttons {
+    display: block;
+    justify-content: center;
+}
+
+.profile-section .info-buttons button {
+    margin: 0 3px;
+}
+
+/* Details Card Styles */
+.profile-section .details-card {
+    padding: 10px 25px 0;
+    border: none;
+    border-radius: 0;
+}
+
+.profile-section .detail-row {
+    border-bottom: 1px solid var(--Dbor);
+    padding: 15px 0;
+}
+
+.profile-section .detail-heading {
+    font-size: 16px;
+    color: var(--Btext);
+    font-weight: 600;
+}
+
+.profile-section .detail-text {
+    color: var(--Gtext);
+    font-size: 15px;
+}
+
+/* Edit Profile Modal Styles */
+.modal .modal-title {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.modal .form-label {
+    font-size: 14px;
+    color: var(--Gtext);
+}
+
+/* End of Profile Section */

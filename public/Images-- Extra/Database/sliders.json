@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67bebc9a7710edbe2900ca18"
+  },
+  "slider_image": "Images/Slider/67bebc9a30e7c_Slider1.jpg",
+  "updated_at": {
+    "$date": "2025-02-26T07:02:50.217Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:02:50.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebca17710edbe2900ca19"
+  },
+  "slider_image": "Images/Slider/67bebca1d0f8c_Slider2.jpg",
+  "updated_at": {
+    "$date": "2025-02-26T07:02:57.872Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:02:57.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebca97710edbe2900ca1a"
+  },
+  "slider_image": "Images/Slider/67bebca9a2921_Slider3.jpg",
+  "updated_at": {
+    "$date": "2025-02-26T07:03:05.684Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:03:05.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebd3d7710edbe2900ca1c"
+  },
+  "slider_image": "Images/Slider/67bebd3dc8296_Slider4.jpg",
+  "updated_at": {
+    "$date": "2025-02-26T07:05:33.836Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:05:33.836Z"
+  }
+}]

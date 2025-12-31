@@ -1,0 +1,114 @@
+/* Start of Checkout Section */
+
+/* Checkout Title Styles */
+.checkout-section .checkout-title {
+    color: var(--Btext);
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--Dbor);
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    letter-spacing: 1px;
+    font-size: 19px;
+}
+
+/* Address Section Styles */
+.checkout-section .address {
+    margin-bottom: 20px;
+}
+
+.checkout-section .address .form-check-label {
+    font-size: 15px;
+    color: var(--Gtext);
+}
+
+/* Form Group Styles */
+.checkout-section .form-group {
+    margin-bottom: 20px;
+}
+
+.checkout-section .form-group label {
+    display: block;
+    color: var(--Btext);
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.checkout-section .required {
+    color: red;
+}
+
+.checkout-section .form-control {
+    width: 100%;
+    height: 45px;
+}
+
+/* Order Summary Styles */
+.checkout-section .order-summary {
+    background: var(--Dgray);
+    padding: 35px;
+}
+
+.checkout-section .summary-title {
+    color: var(--Btext);
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--Dbor);
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+/* Order Products Header Styles */
+.checkout-section .order-products-header {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--Btext);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Product List Styles */
+.checkout-section .product-list {
+    padding: 0;
+    list-style: none;
+}
+
+.checkout-section .product-list li {
+    font-size: 14px;
+    color: var(--Gtext);
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Order Totals Styles */
+.checkout-section .order-totals {
+    border-top: 1px solid var(--Dbor);
+    border-bottom: 1px solid var(--Dbor);
+    padding: 15px 0;
+    margin: 20px 0;
+}
+
+.checkout-section .order-totals li {
+    color: var(--Btext);
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.checkout-section .order-totals .price {
+    color: var(--Dmain);
+    font-weight: 600;
+}
+
+/* Button Styles */
+.checkout-section .btn {
+    width: 100%;
+    height: 45px;
+}
+
+/* End of Checkout Section */

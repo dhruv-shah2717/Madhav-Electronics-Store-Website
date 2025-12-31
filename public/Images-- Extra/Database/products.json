@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "67bec5f07710edbe2900ca26"
+  },
+  "product_qty": "15",
+  "product_name": "Lenovo IdeaPad Gaming 3 AMD Ryzen 7 5800H",
+  "product_brand": "Lenovo",
+  "product_price": "67000",
+  "product_xprice": "77000",
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_id": "67bebd767710edbe2900ca1d",
+  "product_description": "Processor: AMD Ryzen 7 7735HS | Speed: 3.2GHz (Base) - 4.75GHz (Max) | 8 Cores | 16 Threads | 16MB Cache\r\nDisplay: 15.6\" FHD (1920x1080) | IPS Technology | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare || Memory: 16GB RAM DDR5-4800 || Storage: 512GB SSD\r\nGraphics: NVIDIA GeForce RTX 3050 6GB GDDR6 Dedicated Graphics | Boost Clock 1732MHz | TGP 85W || Cooling: 100pct. imporved ventilation rate | 21pct. Larger thermal Area | 35pct. higher TDP\r\nMIL-STD-810G: Qualified Design| Qualified for various mil. Specification Tests like Low & High Temp (-25 to 63°C for 4 hrs)| Temp Shock (-25 to 63°C one way temp Shock)| Shock (122cm+ Drop Test)| Vibration (4-32Hz over 2 hrs)\r\nOS and Pre-Installed Softare: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription",
+  "updated_at": {
+    "$date": "2025-02-26T07:42:40.911Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:42:40.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bec69b7710edbe2900ca2b"
+  },
+  "product_qty": "15",
+  "product_name": "Lenovo Legion 5 Intel Core i7-14650HX",
+  "product_brand": "Lenovo",
+  "product_price": "134900",
+  "product_xprice": "179790",
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_id": "67bebd767710edbe2900ca1d",
+  "product_description": "Processor:Intel Core i7-14650HX | Speed: 2.2GHz (Base) - 5.2GHz (Max) | 16 Cores | 24 Threads | 30MB Cache\r\nDisplay: 16\" WQXGA (2560x1600) IPS Dolby Vision | 165 Hz Refresh Rate |Brightness: 350Nits Anti-glare | 100pct. sRGB || Connectivity : Wifi 6E 11ax (2x2) | Bluetooth 5.2\r\nMemory: 16GB RAM DDR5-5600 | Storage: 1TB SSD (Expandable upto 2TB)\r\nGraphics: NVIDIA GeForce RTX 4050 6GB GDDR6 Dedicated Graphics Boost Clock 2370MHz with max TGP 140W | Free-Sync and G-Sync || Cooling: Legion ColdFront Hyper innovative thermal system features fans spinning both inward, working in tandem to eciently expel hot air from the rear, ensuring uninterrupted gameplay. A dedicated hyperchamber maintains optimal temperatures, delivering 15W more power in Extreme Mode, reducing skin temperature by 2°C, and cutting noise by 2db.",
+  "updated_at": {
+    "$date": "2025-02-26T07:45:41.136Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:45:31.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bec7a07710edbe2900ca30"
+  },
+  "product_qty": "15",
+  "product_name": "ASUS TUF Gaming F17 - Gaming Laptop, Intel Core i5-11260H",
+  "product_brand": "Ausu",
+  "product_price": "58999",
+  "product_xprice": "89999",
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_id": "67bebd7f7710edbe2900ca1e",
+  "product_description": "Processor: 12th Gen Intel Core i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 14 cores: 6 P-cores and 8 E-cores) High Performance and Multitasking.\r\nMemory: 16GB (8GB SO-DIMM *2) DDR4 3200 MHz Support Up to 32GB 2x SO-DIMM slots with | Storage: 1TB PCIe 3.0 NVMe M.2 SSD with additional 2x M.2 Slot for SSD Storage expansion\r\nDisplay: 15.6 inch (39.62 cms) FHD (1920 x 1080) 16:9 250nits, 144Hz Refresh Rate, vIPS-level Anti-glare display, Contrast Ratio: 1000:1 with Adaptive-Sync\r\nPlay over 100 high-quality PC games, plus new and upcoming blockbusters on day one like Halo Infinite, Forza Horizon 5, and Age of Empires IV and 3 month of Game Pass-including EA Play\r\nWith new games added. Age of Empires IV, Back 4 Blood, Battlefield V, Forza Horizon 5, Halo Infinite*, Knockout City, Microsoft Flight Simulator, Minecraft PC Bundle, Need for Speed Heat, Psychonauts2, The Sims 4, Titanfall 2, 12 Minutes",
+  "updated_at": {
+    "$date": "2025-02-26T07:52:39.507Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:49:52.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bec7fb7710edbe2900ca35"
+  },
+  "product_qty": "15",
+  "product_name": "ASUS Vivobook 16X, 16\" FHD+, 144Hz 300nits, Intel Core i5-12500H",
+  "product_brand": "Asus",
+  "product_price": "64990",
+  "product_xprice": "77990",
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_id": "67bebd7f7710edbe2900ca1e",
+  "product_description": "Processor : Intel Core i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)\r\nDisplay :16.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, 144Hz refresh rate, 300nits BrightnessKeyboard : Backlit Chiclet Keyboard with Num-key\r\nGraphics : NVIDIA GeForce RTX 2050\r\nMemory : 16GB DDR4 RAM| Storage : 512GB M.2 NVMe PCIe 4.0 SSD\r\nBattery : 50WHrs, 3S1P, 3-cell Li-ion, Fast Charging : Recharge from 0-50% in 30 minutes\r\nI/O Ports : 1x USB 3.2 Gen 1 Type-C support power delivery, 2x USB 3.2 Gen 1 Type-A, 1x HDMI 2.1 TMDS, 1x 3.5mm Combo Audio Jack, 1x DC-in, SD 4.0 card reader\r\nAudio : SonicMaster, Built-in speaker, Webcam : 720p HD camera with privacy shutter, Mic : Built-in array microphone",
+  "updated_at": {
+    "$date": "2025-02-26T07:51:23.892Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:51:23.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bec92a7710edbe2900ca3a"
+  },
+  "product_qty": "15",
+  "product_name": "Samsung Galaxy Tab A9m, RAM 8 GB, ROM 128 GB",
+  "product_brand": "Samsung",
+  "product_price": "20999",
+  "product_xprice": "27999",
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_id": "67bebdbb7710edbe2900ca20",
+  "product_description": "Outstanding vividness with 27.94 cm (11.0”) LCD display, 90 Hz Refresh Rate, 1920 x 1200 (WQXGA)\r\nQualcomm Snapdragon SM6375 Processor\r\n8 MP AF Rear Camera, 5 MP FF Front camera,Quad Speakers Surround Sound\r\n7040 mAh Battery,",
+  "updated_at": {
+    "$date": "2025-02-26T07:56:26.074Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:56:26.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bec9977710edbe2900ca3f"
+  },
+  "product_qty": "15",
+  "product_name": "Samsung Galaxy Tab S9 FE+, RAM 8 GB, ROM 128 GB",
+  "product_brand": "Samsung",
+  "product_price": "37999",
+  "product_xprice": "59999",
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_id": "67bebdbb7710edbe2900ca20",
+  "product_description": "Outstanding vividness with 31.50 cm (12.4”) display, 90 Hz Refresh Rate, 2560 x 1600 (WQXGA,244 PPI)\r\nPowerful Performance with Exynos 1380 chip\r\n8 MP + 8MP Ultra wide Rear Camera, 12 MP Ultra wide Front camera,Dual Speakers by AKG\r\n8000 mAh Battery, Dual Sim pSIM + eSIM\r\nWeatherproof & DurableTablet and S Pen with IP68",
+  "updated_at": {
+    "$date": "2025-02-26T07:58:15.771Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:58:15.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becb027710edbe2900ca44"
+  },
+  "product_qty": "15",
+  "product_name": "OnePlus Pad Go 2.4K 7:5 Ratio Readfit Eye Care LCD Display",
+  "product_brand": "OnePlus",
+  "product_price": "20999",
+  "product_xprice": "23999",
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_id": "67bebdaa7710edbe2900ca1f",
+  "product_description": "[Outstanding Display]: 2.4K 2408x1720 Ultra-High resolution, 11.35-inch/28.85cm Massive Display, 7:5 ReadFit screen ratio & 260 PPI with 400 nits brightness.\r\n[Awesome Audio]: OnePlus omnibearing sound with Dolby Atmos Quad Speakers; [Eye Care]: Low Blue Light (TÜV Rheinland Certified) ; Intelligent brightness ; DC Dimming ; Bedtime Mode\r\n[Seamless connectivity]: Wifi with 4G LTE(Calling) [Processor & Operating system]: MediaTek Helio G99, Android Oxygen OS 13.2\r\n[Storage & Battery]: 8GB RAM with 256GB storage ; 8000 mAh big battery with up-to 514 hours of standby, 33W SUPERVOOC fast charging",
+  "updated_at": {
+    "$date": "2025-02-26T08:04:18.527Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:04:18.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becc037710edbe2900ca49"
+  },
+  "product_qty": "15",
+  "product_name": "Lenovo Tab P11 (2nd Gen)| 11.5 Inch| 6 GB, 128 GB Expandable",
+  "product_brand": "OnePlus",
+  "product_price": "16999",
+  "product_xprice": "30000",
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_id": "67bebdaa7710edbe2900ca1f",
+  "product_description": "Processor: MediaTek Helio G99 (8C, 2x A76 @2.2GHz + 6x A55 @2.0GHz)\r\nMemory : 6GB Soldered LPDDR4x | Storage: 128GB UFS 2.2 (uMCP), Storage Support: 128GB uMCP (UFS-Based MCP, UFS 2.2), MicroSD card, supports up to 1TB (exFAT)\r\nDisplay: 11.5\" 2K (2000x1200) IPS | Refresh Rate:- 120Hz | Brightness:- 400nits | Anti-fingerprint | 97.5% DCIP3 | Corning Gorilla Glass 3 |10-point Multi-touch\r\nSpeakers: 4 speakers, 1W x4, optimized with Dolby Atmos || Camera: Front 8.0MP / Rear 13.0MP with Flashlight\r\nSensors: Accelerometer (G) sensor | Ambient light sensor (ALS) | Gyroscope sensor | Hall sensor | Proximity (P) sensor\r\nOperating System: Android 12L or Later || Battery: Integrated 7500mAh (Min.) / 7700mAh (Typ.) | Video Playback (Online) : Up to 10 Hours| Web Browsing : Up to 10 Hours | Music Playback : Up to 31 Hours",
+  "updated_at": {
+    "$date": "2025-02-26T08:08:35.137Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:08:35.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becd677710edbe2900ca4e"
+  },
+  "product_qty": "15",
+  "product_name": "Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage)",
+  "product_brand": "Redmi",
+  "product_price": "8299",
+  "product_xprice": "10999",
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_id": "67bebdc77710edbe2900ca21",
+  "product_description": "High performance - Snapdragon 4s Gen 2 5G Processor | Large 17.47cm 120Hz Display | Upto 8GB RAM including 4GB Virtual RAM |64GB Storage | Fast Side fingerprint sensor\r\nDisplay: Large 17.47 cm 120Hz Refresh Rate display | 600nits peak brightness | 240Hz Touch sampling Rate | TUV triple certified eye care protection\r\nCamera: 50MP Dual camera | 5MP Front camera\r\n5160mAh(typ) battery with 18W fast charging support and 33W charger in-box with USB Type-C\r\nExpandable Storage to upto 1TB with Dedicated MicroSD card Slot | 3.5mm headphone jack | Android 14 | Side fingerprint sensor\r\nSupports 4G+ 5G SA network | Note : 5G NSA not supported | Please check availability of Standalone 5G with your networks",
+  "updated_at": {
+    "$date": "2025-02-26T08:14:31.642Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:14:31.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becdcb7710edbe2900ca53"
+  },
+  "product_qty": "15",
+  "product_name": "Redmi Note 13 5G (Stealth Black, 8GB RAM, 256GB Storage)",
+  "product_brand": "Redmi",
+  "product_price": "16900",
+  "product_xprice": "19999",
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_id": "67bebdc77710edbe2900ca21",
+  "product_description": "Display: 6.67\" FHD+ pOLED (1080x2400) Ultra-narrow bezels Display with 120Hz Refresh rate; 1000nits peak brightness; Corning Gorilla Glass 5 Display Protection\r\nProcessor:Mediatek Dimensity 6080 6nm Octa-core 5G processor for high performance ; Up to 2.4GHz; Upto 16GB RAM including 8GB Virtual RAM\r\nCamera: 108MP 3X in-sensor zoom AI Triple Camera with 8MP Ultra Wide sensor and 2MP Macro camera| 16MP Front camera\r\nBattery: 5000 mAh large battery with 33W fast charger in-box and Type-C connectivity",
+  "updated_at": {
+    "$date": "2025-02-26T08:16:11.775Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:16:11.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67beceae7710edbe2900ca58"
+  },
+  "product_qty": "15",
+  "product_name": "Motorola G35 5G (4GB RAM, 128GB Storage)",
+  "product_brand": "Motorola",
+  "product_price": "10438",
+  "product_xprice": "12999",
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_id": "67bebdd37710edbe2900ca22",
+  "product_description": "Blazing Fast 5G Connectivity: Enjoy seamless browsing, streaming, and gaming with ultra-fast 5G speeds for a lag-free experience.\r\nLong-Lasting 5000mAh Battery: Stay powered throughout the day with the massive 5000mAh battery, perfect for heavy usage.\r\nAdvanced 50MP AI Camera: Capture stunning photos and videos with the 50MP AI-powered camera for exceptional clarity and detail.\r\nLong-Lasting 5000mAh Battery: Stay powered throughout the day with the massive 5000mAh battery, perfect for heavy usage.\r\nSleek Design & Vibrant Colors: Available in Leaf Green, Midnight Black, and Guava Red, the stylish design complements your personality.",
+  "updated_at": {
+    "$date": "2025-02-26T08:19:58.418Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:19:58.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becf0b7710edbe2900ca5d"
+  },
+  "product_qty": "15",
+  "product_name": "Moto G85 5G (8GB 128GB, Urban Grey, New)",
+  "product_brand": "Motorola",
+  "product_price": "19447",
+  "product_xprice": "29999",
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_id": "67bebdd37710edbe2900ca22",
+  "product_description": "16.94 cm (6.67 inch) Full HD+ Display\r\n50MP + 8MP | 32MP Front Camera\r\n5000 mAh Battery\r\nSnapdragon 6s Gen 3 Processor",
+  "updated_at": {
+    "$date": "2025-02-26T08:21:31.019Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:21:31.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed0077710edbe2900ca62"
+  },
+  "product_qty": "15",
+  "product_name": "Cosmic Byte CB-GK-38 Optical Swappable Blue Switch Keyboard",
+  "product_brand": "Cosmic Byte",
+  "product_price": "2549",
+  "product_xprice": "3399",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebe047710edbe2900ca24",
+  "product_description": "This Renewed product is tested to work and look like new with minimal to no signs of wear & tear; the product comes with relevant accessories and is backed by a minimum six month seller warranty; box may be generic\r\nCB Optical Blue Switch- Optical switches work at the speed of light. They are extremely fast compared to traditional mechanical switches and with zero Latency.\r\nQuieter Operation- Optical switches are generally quieter than traditional mechanical switches and feel very good to type due to lack of mechanical parts.\r\nSpectra Per Key RGB- Choose from 16.8 million colors with unlimited possibilities to customize the keyboard and make it your own.",
+  "updated_at": {
+    "$date": "2025-02-26T08:25:43.640Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:25:43.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed0c17710edbe2900ca67"
+  },
+  "product_qty": "15",
+  "product_name": "Redragon K580 VATA  Mechanical Gaming Keyboard",
+  "product_brand": "Redragon",
+  "product_price": "4499",
+  "product_xprice": "5990",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebe047710edbe2900ca24",
+  "product_description": "Durability: 50 million times keystroke test, small actuation force, and short travel make it. Special Double-shot injection molded keycaps never fade Key color. Waterproof and dust resistant.\r\n5 Macro Keys: There are 5 programmable macro keys(G1~G5) on the keyboard which can be recorded macros on the fly without any additional software required to be installed. Easy to edit and DIY your stylish keyboard.\r\nDedicated Multimedia Controls: The multimedia controls let you quickly play, pause, skip the music right from the keyboard without interrupting your game. Also, designed with a volume/backlight adjust wheel, it's easy to adjust volume or backlight brightness directly with the wheel in the upper right side of the keyboard. Very convenient and cool looking.\r\nN-key Rollover: 104 keys anti-ghosting allows you to simultaneously click multiple keys. The floating keys and OUTEMU blue switches will give you a great gaming experience with fast response and nice clicky sound.",
+  "updated_at": {
+    "$date": "2025-02-26T08:28:49.718Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:28:49.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed1537710edbe2900ca6c"
+  },
+  "product_qty": "15",
+  "product_name": "Razer DeathAdder Essential Wired Gaming Mouse",
+  "product_brand": "Razer",
+  "product_price": "1399",
+  "product_xprice": "4499",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebe137710edbe2900ca25",
+  "product_description": "Proven history of performance\r\nTrue 6,400 dpi optical sensor for fast and precise swipes\r\nClassic ergonomic form factor\r\nDistinctive shape designed for extended hours of gaming\r\nMulti-award winning technology\r\n5 hype response buttons durable up to 10 million clicks",
+  "updated_at": {
+    "$date": "2025-02-26T08:31:15.099Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:31:15.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed1b97710edbe2900ca71"
+  },
+  "product_qty": "15",
+  "product_name": "Ant Esports GM320 RGB Optical Wired Gaming Mouse",
+  "product_brand": "Ant Esport",
+  "product_price": "559",
+  "product_xprice": "899",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebe137710edbe2900ca25",
+  "product_description": "8 programmable buttons & Fire Button - support Macro editing, 8 mouse buttons can be programmed with Ant Esports easy-to-program gaming software. The rapid Fire button gives you the edge during intensive FPS battles. Great value FPS gaming mouse, also excellent for MOBA/ RTS games.\r\nRGB backlit for extreme gaming experience- Multicolour RGB lighting, Easily turn on and off the backlit or change the color mode with the convenient switch at the bottom of the mouse. Plus, adopts impressive optical gaming sensor, ensure quickly switch for different games\r\nExcellent gaming performance with 12800 DPI and 4 polling rate- GM320 gaming mouse with default 4 DPI levels available from 1000 to 12800 DPI. Easily adjust to instantly match mouse speed to different games. polling rate is adjustable: 500Hz-1000Hz, polling rate ensures smooth and high-speed movement",
+  "updated_at": {
+    "$date": "2025-02-26T08:32:57.666Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:32:57.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed21e7710edbe2900ca76"
+  },
+  "product_qty": "15",
+  "product_name": "Samsung Essential Series S3 Flat Monitor 24 Inch",
+  "product_brand": "Samsung",
+  "product_price": "8199",
+  "product_xprice": "1197",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebde77710edbe2900ca23",
+  "product_description": "Samsung 24 Inch Flat IPS Display Monitor FHD 1,920 x 1,080 Resolution\r\nAspect Ratio: 16:09 | 178°(H)/178°(V) Viewing Angle | 16.7 Million Color Support | 250 cd/㎡ Brightness (Typical) | 1,000:1 Contrast Ratio | Refresh Rate: 100 Hz | Response Time: 5.0 ms (GTG)\r\nIPS Panel | 100Hz Refresh Rate | Game Mode | Eye Saver Mode & Less Screen Flickering | Super Slim Design\r\nAdditional Features: Color Gamut (NTSC) 72% | Eco Saving Plus | Off Timer Plus | Tilt -2.0˚(±2.0˚)~21.0˚(±2.0˚)\r\nConnectivity options: D-Sub, HDMI Port, HDMI Version 1.4 || 3-Year Warranty from Manufacturer",
+  "updated_at": {
+    "$date": "2025-02-26T08:34:38.267Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:34:38.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bed2d07710edbe2900ca7b"
+  },
+  "product_qty": "15",
+  "product_name": "Samsung Essential Series 1800R Curved Monitor 27 Inch",
+  "product_brand": "Samsung",
+  "product_price": "9799",
+  "product_xprice": "17400",
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_id": "67bebde77710edbe2900ca23",
+  "product_description": "Samsung 27 Inch Curved FHD 1,920 x 1,080 Resolution VA Display Monitor\r\nAspect Ratio: 16:09 | 178°(H)/178°(V) Viewing Angle | 16.7 Million Color Support | 250 cd/㎡ Brightness (Typical) | 3,000:1 Contrast Ratio | Refresh Rate: 100 Hz | Response Time: 4.0 ms (GTG)\r\n1800R Curved Screen | 100Hz Refresh Rate | Game Mode | Eye Saver Mode & Less Screen Flickering\r\nAdditional Features: Color Gamut (sRGB Coverage) 95% | Eco Saving Plus | Off Timer Plus\r\nConnectivity options: D-Sub, HDMI Port, HDMI Version 1.4 , Headphone Jack || 3-Year Warranty from Manufacturer",
+  "updated_at": {
+    "$date": "2025-02-26T08:37:36.881Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T08:37:36.881Z"
+  }
+}]

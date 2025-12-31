@@ -1,0 +1,139 @@
+/* Start of Navbar Section */
+
+/* Top Banner */
+.navbar-section .top-banner {
+    background-color: var(--Dblack);
+    color: var(--Wtext);
+    padding: 12px 0;
+    font-size: 13px;
+}
+
+.navbar-section .banner-links {
+    display: flex;
+    list-style: none;
+}
+
+.navbar-section .banner-links a {
+    color: var(--Wtext);
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.navbar-section .banner-links a:hover {
+    text-decoration: underline;
+}
+
+/* Navbar */
+.navbar-section .main-navbar {
+    background-color: var(--Dwhite);
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-section .navbar-logo img {
+    height: 60px;
+    width: 210px;
+}
+
+.navbar-section .navbar-toggler {
+    border: none;
+    background: none;
+}
+
+.navbar-section .navbar-toggler .toggle-icon {
+    color: var(--Dblack);
+    font-size: 28px;
+}
+
+.navbar-section .nav-menu .nav-link {
+    color: var(--Btext) !important;
+    font-weight: 700;
+    position: relative;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.navbar-section .nav-menu .active {
+    border-bottom: 2px solid var(--Dmain);
+}
+
+.navbar-section .nav-menu .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--Dmain);
+    transition: 0.3s ease-in-out;
+    transform: scaleX(0);
+}
+
+.navbar-section .nav-menu .nav-link:hover::after {
+    transform: scaleX(1);
+}
+
+/* Search Overlay */
+.navbar-section .nav-search-overlay {
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-section .nav-search-overlay .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 60px;
+    font-size: 35px;
+    cursor: pointer;
+    color: var(--Wtext);
+}
+
+.navbar-section .nav-search-form {
+    position: relative;
+    top: 25%;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-section .nav-search-form input {
+    padding-left: 20px;
+    border-radius: 7px;
+    font-size: 14px;
+    color: var(--Gtext);
+    border: 1px solid var(--Bor);
+    width: 95%;
+    height: 45px;
+}
+
+.navbar-section .nav-search-form button {
+    width: 5%;
+    padding: 12px 0;
+    float: right;
+    background-color: var(--Dmain);
+    color: var(--Wtext);
+    border-radius: 7px;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+}
+
+/* Alerts */
+.navbar-section .alert {
+    padding: 10px 20px 10px 25px;
+    margin: 10px 15px 0px 15px;
+}
+
+.navbar-section .alert-dismissible .btn-close {
+    padding: 15px 25px;
+}
+
+/* End of Navbar Section */

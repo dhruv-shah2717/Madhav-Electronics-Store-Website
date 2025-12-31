@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "67bebcbd7710edbe2900ca1b"
+  },
+  "discount_name": "Offer2006",
+  "discount_price": "200",
+  "discount_expire": "2025-10-17",
+  "updated_at": {
+    "$date": "2025-03-06T05:22:52.892Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:03:25.196Z"
+  }
+}]

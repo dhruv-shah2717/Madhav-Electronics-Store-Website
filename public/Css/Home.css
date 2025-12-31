@@ -1,0 +1,208 @@
+/* Start of Slider Section */
+
+/* Slider Image */
+.slider-section .carousel-item img {
+    height: 700px;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 95%, rgba(0, 0, 0, 0) 100%);
+}
+
+/* Category Card Styles */
+.slider-section .category-card {
+    background-color: var(--Dwhite);
+    border-radius: 7px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: var(--Dbor);
+    overflow: hidden;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.slider-section .card-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px 0 10px 0;
+}
+
+.slider-section .card-image img {
+    width: 150px;
+    height: 120px;
+}
+
+.slider-section .card-body .category-title {
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--Btext);
+}
+
+.slider-section .category-card:hover {
+    transform: scale(1.1);
+    z-index: 1;
+}
+
+/* End of Slider Section */
+
+/* Start of Product Card Section */
+
+.product-section .product-heading {
+    font-size: 23px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0 0 45px 0;
+    color: var(--Btext);
+}
+
+.product-section .product-card {
+    background-color: var(--Dwhite);
+    border-radius: 7px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: var(--Dbor);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.product-section .card-image {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.product-section .card-image img {
+    width: 85%;
+    height: 215px;
+}
+
+.product-section .card-body {
+    padding: 5px 15px 15px 15px;
+}
+
+.product-section .product-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--Gtext);
+    margin-top: 10px;
+}
+
+.product-section .product-price-rating {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.product-section .product-price {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--Btext);
+}
+
+.product-section .product-rating {
+    display: flex;
+    align-items: center;
+}
+
+.product-section .product-rating i {
+    color: #ffc107;
+    font-size: 12px;
+    margin-right: 2px;
+}
+
+.product-section .rating-value {
+    font-size: 11px;
+    margin-left: 4px;
+    color: var(--Btext);
+}
+
+/* End of Product Card Section */
+
+/* Start of Hero Section */
+
+.hero-section .hero-image {
+    padding: 0;
+}
+
+.hero-section .image {
+    width: 100%;
+    display: block;
+}
+
+.hero-section .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-section .hero-content {
+    padding: 0 20px;
+}
+
+.hero-section .hero-heading {
+    color: var(--Btext);
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.hero-section .hero-text {
+    font-size: 14px;
+    color: var(--Gtext);
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.hero-section .hero-content .btn {
+    height: 45px;
+    padding: 0 25px;
+}
+
+/* End of Hero Section */
+
+/* Start of Banner Section */
+
+.banner-section .hero-image {
+    width: 100%;
+}
+
+/* End of Banner Section */
+
+/* Start of Feature Card Section */
+
+.feature-section .feature-card {
+    background-color: var(--Dwhite);
+    border-radius: 7px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: var(--Dbor);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.feature-section .feature-icon {
+    position: relative;
+}
+
+.feature-section .feature-icon i {
+    font-size: 40px;
+    color: var(--Dmain);
+    margin-right: 15px;
+    position: absolute;
+    top: 10px;
+}
+
+.feature-section .feature-title {
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: var(--Btext);
+}
+
+.feature-section .feature-text {
+    font-size: 14px;
+    color: var(--Gtext);
+}
+
+/* End of Feature Card Section */

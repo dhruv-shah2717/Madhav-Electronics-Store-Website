@@ -1,0 +1,163 @@
+/* Start of Cart Section */
+
+/* Table Styles */
+.cart-section .table {
+    border-collapse: collapse;
+}
+
+.cart-section .table tr {
+    border-bottom: 1px solid var(--Dbor);
+}
+
+.cart-section .table tr th {
+    padding-bottom: 25px;
+}
+
+.cart-section .table tr td {
+    padding: 25px 8px;
+}
+
+/* Table Heading Styles */
+.cart-section .table-heading {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--Btext);
+    padding-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Item Details Styles */
+.cart-section .item-details {
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+.cart-section .item-image img {
+    width: 90px;
+}
+
+.cart-section .item-description {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--Gtext);
+}
+
+/* Item Price Styles */
+.cart-section .item-price p {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.cart-section .item-total p {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--Bmain);
+}
+
+/* Quantity Controls Styles */
+.cart-section .quantity-controls {
+    display: flex;
+    align-items: center;
+}
+
+.cart-section .quantity-decrement,
+.cart-section .quantity-increment {
+    font-size: 18px;
+    color: var(--Gtext);
+    width: 25px;
+    text-align: center;
+    line-height: 36px;
+    cursor: pointer;
+}
+
+.cart-section .quantity-input {
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    width: 45px;
+    text-align: center;
+}
+
+/* Item Remove Button Styles */
+.cart-section .item-remove .remove-btn {
+    border-radius: 50%;
+    background-color: var(--Dgray);
+    border: none;
+    outline: none;
+    color: var(--Btext);
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 13px;
+}
+
+/* Discount Section Styles */
+.cart-section .discount-section {
+    margin-top: 8px;
+}
+
+.cart-section .discount-section h6 {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--Btext);
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.cart-section .discount-input {
+    width: 60%;
+    height: 45px;
+}
+
+.cart-section .apply-btn {
+    height: 45px;
+    width: 30%;
+}
+
+/* Cart Total Styles */
+.cart-section .cart-total {
+    background-color: var(--Dgray);
+    margin-top: 63px;
+    padding: 35px;
+}
+
+.cart-section .cart-total h6 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.cart-section .cart-total ul {
+    list-style: none;
+    border-top: 1px solid var(--Dbor);
+    border-bottom: 1px solid var(--Dbor);
+    margin-bottom: 20px;
+    padding: 15px 0;
+}
+
+.cart-section .cart-total li {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    color: var(--Btext);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.cart-section .cart-total span {
+    color: var(--Dmain);
+    font-weight: 600;
+}
+
+/* Checkout Button Styles */
+.cart-section .checkout-btn {
+    height: 45px;
+    width: 100%;
+}
+
+/* End of Cart Section */

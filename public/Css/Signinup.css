@@ -1,0 +1,50 @@
+/* Start of Signinup Section */
+
+/* Image Styles */
+.signinup-section .image img {
+    width: 100%;
+    height: 400px;
+}
+
+/* Form Container Styles */
+.signinup-section .form-container {
+    padding: 30px;
+    background-color: var(--Dgray);
+}
+
+/* Heading Styles */
+.signinup-section .heading h5 {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--Btext);
+    letter-spacing: 1px;
+}
+
+/* User Form Styles */
+.signinup-section .user-form .form-group {
+    margin-bottom: 20px;
+}
+
+.signinup-section .user-form input {
+    width: 100%;
+    height: 45px;
+}
+
+/* Signin/Signup Link Styles */
+.signinup-section .user-form .signinup a {
+    color: blue;
+    font-size: 14px;
+    text-decoration: underline;
+    display: flex;
+    float: right;
+    font-weight: 500;
+}
+
+/* Submit Button Styles */
+.signinup-section .user-form .submit-button {
+    width: 100%;
+    margin-top: 25px;
+    height: 45px;
+}
+
+/* End of Signinup Section */

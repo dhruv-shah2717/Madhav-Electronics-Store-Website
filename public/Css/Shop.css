@@ -1,0 +1,83 @@
+/* Start of Shop Section */
+
+/* Shop Search Styles */
+.shop-section .shop-search {
+    height: 45px;
+    margin-bottom: 30px;
+}
+
+/* Shop Card Styles */
+.shop-section .shop-card {
+    border: none;
+    margin-bottom: 25px;
+}
+
+/* Category and Price Header Styles */
+.shop-section .category-header,
+.shop-section .price-header {
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: var(--Btext);
+}
+
+.shop-section .category-header a p,
+.shop-section .price-header p {
+    color: var(--Btext);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/* Category and Subcategory List Styles */
+.shop-section .category-list,
+.shop-section .subcategory-list {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.shop-section .category-item,
+.shop-section .subcategory-item {
+    font-size: 15px;
+    color: var(--Gtext);
+    padding: 2px 0;
+}
+
+/* Open State for Lists */
+.shop-section .category-list.open,
+.shop-section .subcategory-list.open {
+    max-height: 500px;
+}
+
+/* Price Form Styles */
+.shop-section .price-form {
+    margin-top: 10px;
+}
+
+.shop-section .price-range {
+    width: 100%;
+}
+
+.shop-card .range {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--Gtext);
+}
+
+/* Shop Heading Styles */
+.shop-section .shop-heading {
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--Gtext);
+    justify-content: flex-end;
+    margin-bottom: 35px;
+}
+
+/* End of Shop Section */

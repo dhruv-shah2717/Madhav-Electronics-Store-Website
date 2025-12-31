@@ -1,0 +1,93 @@
+/* Start of Order Section */
+
+/* Table Styles */
+.order-section .table {
+    width: 100%; /* Ensure the table takes full width */
+}
+
+.order-section .table tr {
+    border-bottom: 1px solid var(--Dbor);
+}
+
+.order-section .table tr th {
+    padding-bottom: 25px;
+}
+
+.order-section .table tr td {
+    padding: 25px 8px;
+}
+
+/* Table Heading Styles */
+.order-section .table-heading {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--Btext-color);
+    padding-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Item Styles */
+.order-section .item-name {
+    width: 300px;
+}
+
+.order-section .item-name p {
+    font-size: 15px;
+    color: var(--Gtext);
+    font-weight: 500;
+}
+
+.order-section .item-total p {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--Btext);
+}
+
+.order-section .item-paymentid p {
+    font-size: 15px;
+    color: var(--Btext);
+}
+
+.order-section .item-payment-status {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* Item Status Styles */
+.order-section .item-status .status {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--Btext);
+}
+
+.order-section .item-status .date {
+    color: var(--Gtext);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/* Invoice Styles */
+.order-section .item-invoice a {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.order-section .item-invoice img {
+    width: 25px;
+    margin-right: 10px;
+}
+
+.order-section .item-invoice p {
+    font-size: 14px;
+    color: blue;
+}
+
+/* Button Styles */
+.order-section .item-buttons a {
+    font-size: 13px;
+    color: blue;
+}
+
+/* End of Order Section */

@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "67bebd767710edbe2900ca1d"
+  },
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_name": "Gaming Laptop",
+  "updated_at": {
+    "$date": "2025-02-26T07:06:30.008Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:06:30.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebd7f7710edbe2900ca1e"
+  },
+  "category_id": "67bebc297710edbe2900ca14",
+  "subcategory_name": "Bussiness Laptop",
+  "updated_at": {
+    "$date": "2025-02-26T07:06:39.337Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:06:39.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebdaa7710edbe2900ca1f"
+  },
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_name": "Bussiness Tablet",
+  "updated_at": {
+    "$date": "2025-02-26T07:07:22.907Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:07:22.907Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebdbb7710edbe2900ca20"
+  },
+  "category_id": "67bebc547710edbe2900ca15",
+  "subcategory_name": "Gaming Tablet",
+  "updated_at": {
+    "$date": "2025-02-26T07:07:39.496Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:07:39.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebdc77710edbe2900ca21"
+  },
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_name": "Gaming Mobile",
+  "updated_at": {
+    "$date": "2025-02-26T07:07:51.916Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:07:51.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebdd37710edbe2900ca22"
+  },
+  "category_id": "67bebc5f7710edbe2900ca16",
+  "subcategory_name": "Bussiness Mobile",
+  "updated_at": {
+    "$date": "2025-02-26T07:08:03.651Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:08:03.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebde77710edbe2900ca23"
+  },
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_name": "Monitor",
+  "updated_at": {
+    "$date": "2025-02-26T18:41:51.609Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:08:23.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebe047710edbe2900ca24"
+  },
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_name": "Keyboard",
+  "updated_at": {
+    "$date": "2025-02-26T07:08:52.236Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:08:52.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebe137710edbe2900ca25"
+  },
+  "category_id": "67bebc797710edbe2900ca17",
+  "subcategory_name": "Mouse",
+  "updated_at": {
+    "$date": "2025-02-26T07:09:07.524Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:09:07.524Z"
+  }
+}]

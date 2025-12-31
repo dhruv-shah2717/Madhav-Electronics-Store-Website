@@ -1,0 +1,206 @@
+/* Start of Product Section */
+
+/* Image Display Styles */
+.product-sections .product-images {
+    margin-bottom: 0;
+}
+
+.product-sections .image-display {
+    overflow: hidden;
+}
+
+.product-sections .image-showcase {
+    display: flex;
+    width: 100%;
+    transition: all 0.5s ease;
+    border-radius: 5px;
+}
+
+.product-sections .image-showcase img {
+    min-width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+/* Image Selection Styles */
+.product-sections .image-select {
+    display: flex;
+    margin-top: 15px;
+}
+
+.product-sections .image-select .image-item {
+    margin: 0.3rem;
+}
+
+.product-sections .image-item img {
+    height: 80px;
+    width: 90px;
+    border: 1px solid var(--Dbor);
+}
+
+.product-sections .image-item:hover {
+    opacity: 0.8;
+}
+
+/* Product Name and Review Styles */
+.product-sections .product-name {
+    font-size: 23px;
+    color: var(--Gtext);
+    font-weight: 600;
+}
+
+.product-sections .product-review {
+    display: flex;
+    letter-spacing: 2px;
+    margin-top: 7px;
+}
+
+.product-sections .product-review i {
+    font-size: 14px;
+    color: #ffc107;
+}
+
+.product-sections .product-review small {
+    font-size: 12px;
+    margin-left: 5px;
+    align-items: center;
+    display: flex;
+    color: var(--Gtext);
+}
+
+/* Product Description Styles */
+.product-sections .product-des {
+    margin-top: 12px;
+}
+
+.product-sections .product-des p {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--Gtext);
+}
+
+/* Product Price Styles */
+.product-sections .product-price {
+    display: flex;
+    gap: 10px;
+    margin: 17px 0;
+}
+
+.product-sections .product-price .price {
+    font-size: 22px;
+    color: var(--Btext);
+    font-weight: 600;
+    display: flex;
+}
+
+.product-sections .product-price .xprice {
+    font-size: 13px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: var(--Gtext);
+}
+
+/* Product Options and Buttons */
+.product-sections .product-option {
+    margin-top: 14px;
+}
+
+.product-sections .product-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+}
+
+.product-sections .product-buttons .btn {
+    padding: 0 25px;
+    height: 45px;
+}
+
+/* Product Attribute Styles */
+.product-sections .product-attribute table {
+    width: 300px;
+}
+
+.product-sections .product-attribute table td {
+    padding: 4px 0;
+}
+
+.product-sections .product-attribute .heading {
+    font-size: 15px;
+    color: var(--Btext);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.product-sections .product-attribute .des {
+    font-size: 14px;
+    color: var(--Gtext);
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+/* Product Description Heading */
+.product-sections .product-description .heading {
+    font-size: 19px;
+    color: var(--Btext);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.product-sections .product-description p {
+    font-size: 15px;
+    color: var(--Gtext);
+    margin-top: 10px;
+}
+
+/* Product Reviews Styles */
+.product-sections .product-reviews .heading {
+    font-size: 19px;
+    color: var(--Btext);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.product-sections .product-reviews .review-card {
+    background-color: var(--Dwhite);
+    border-radius: 7px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: var(--Dbor);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.product-sections .review-card .card-body p {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--Btext);
+}
+
+.product-sections .review-card .card-body .reviews {
+    font-size: 12px;
+    color: #ffc107;
+    margin-top: 5px;
+}
+
+.product-sections .review-card .card-body .comment {
+    font-size: 13px;
+    color: var(--Gtext);
+    margin-top: 5px;
+}
+
+/* Responsive Styles */
+@media (max-width: 500px) {
+    .product-sections .product-images {
+        margin-bottom: 20px;
+    }
+
+    .product-sections .image-item img {
+        height: 65px;
+        width: 70px;
+    }
+}
+
+/* End of Product Section */

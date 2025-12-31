@@ -1,0 +1,124 @@
+/* Shree Ganashi Nam */
+/* Mahek */
+
+/* Global Reset and Typography */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", serif;
+    font-weight: 500;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Color Variables */
+:root {
+    --Dblack: #000000;
+    --Dwhite: #ffffff;
+    --Dmain: #e53637;
+    --Dgray: #f3f2ee;
+    --Dbor:  #e5e5e5;
+    --Btext: #111111;
+    --Gtext: #666666;
+    --Wtext: #fdfdfd;
+    --Ltext: #b7b7b7;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: var(--Wtext);
+}
+
+a:hover {
+    color: var(--Wtext);
+}
+
+/* Text Elements */
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.error {
+    font-size: 13px;
+    color: red;
+}
+
+/* Buttons */
+.btn:hover {
+    color: var(--Wtext);
+}
+
+.Dbtn {
+    font-size: 12px;
+    color: var(--Wtext);
+    background: var(--Btext);
+    font-weight: 700;
+    border: none;
+    text-transform: uppercase;
+    display: inline-block;
+    border-radius: 7px;
+    letter-spacing: 1px;
+}
+
+/* Layout */
+.container {
+    padding: 0 80px;
+}
+
+.Dhruv {
+    margin: 90px 0;
+}
+
+/* Form Elements */
+.Dinput {
+    width: 100%;
+    border: 1px solid var(--Dbor);
+    padding-left: 20px;
+    font-size: 14px;
+    color: var(--Gtext);
+    border-radius: 7px;
+}
+
+.Dtextarea {
+    width: 100%;
+    border: 1px solid var(--Dbor);
+    padding-left: 20px;
+    font-size: 14px;
+    color: var(--Gtext);
+    resize: none;
+    border-radius: 7px;
+    padding-top: 12px;
+}
+
+/* Borders */
+.Dbor {
+    border-bottom: 1px solid var(--Dbor);
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+    .Dhruv {
+        margin: 80px 0;
+    }
+
+    .container {
+        padding: 0 40px;
+    }
+}
+
+@media (max-width: 600px) {
+    .Dhruv {
+        margin: 70px 0;
+    }
+
+    .container {
+        padding: 0 20px;
+    }
+}
+
+/* End of Styles */

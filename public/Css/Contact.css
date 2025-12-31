@@ -1,0 +1,88 @@
+/* Start of Map, Information, Contact Form Section */
+
+/* Map and Contact Details */
+.contact-section .contact-map iframe {
+    width: 100%;
+    border: none;
+}
+
+.contact-section .contact-details {
+    margin-top: 70px;
+}
+
+/* Contact Header Styles */
+.contact-section .contact-header {
+    margin-bottom: 30px;
+}
+
+.contact-section .contact-label {
+    color: var(--Dmain);
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.contact-section .contact-heading {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: var(--Btext);
+}
+
+.contact-section .contact-description {
+    color: var(--Gtext);
+    font-size: 15px;
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+/* Contact Information Styles */
+.contact-section .contact-informations {
+    padding: 0;
+    list-style: none;
+}
+
+.contact-section .information-item {
+    margin-bottom: 24px;
+}
+
+.contact-section .information-name {
+    color: var(--Btext);
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.contact-section .information-details {
+    font-size: 14px;
+    color: var(--Gtext);
+}
+
+/* Contact Form Styles */
+.contact-section .contact-form .row .col-lg-6 {
+    margin-bottom: 30px;
+}
+
+.contact-section .contact-form .form-input {
+    height: 45px;
+}
+
+.contact-section .contact-form .row .col-lg-12 {
+    margin-bottom: 30px;
+}
+
+.contact-section .contact-form .form-textarea {
+    height: 150px;
+    width: 100%;
+}
+
+.contact-section .submit-btn {
+    width: 100%;
+    height: 45px;
+    margin-top: 30px;
+}
+
+/* End of Map, Information, Contact Form Section */

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "67bebc297710edbe2900ca14"
+  },
+  "category_name": "Laptops",
+  "category_image": "Images/Category/67bebc2948a05_Category1.png",
+  "updated_at": {
+    "$date": "2025-02-28T10:29:44.889Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:00:57.302Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebc547710edbe2900ca15"
+  },
+  "category_name": "Tablets",
+  "category_image": "Images/Category/67bebc54587b5_Category2.png",
+  "updated_at": {
+    "$date": "2025-02-26T07:01:40.368Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:01:40.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebc5f7710edbe2900ca16"
+  },
+  "category_name": "Mobiles",
+  "category_image": "Images/Category/67bebc5f09a11_Category3.png",
+  "updated_at": {
+    "$date": "2025-02-26T07:01:51.045Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:01:51.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bebc797710edbe2900ca17"
+  },
+  "category_name": "Accessories",
+  "category_image": "Images/Category/67bebc792e50d_Category4.png",
+  "updated_at": {
+    "$date": "2025-02-26T07:02:17.195Z"
+  },
+  "created_at": {
+    "$date": "2025-02-26T07:02:17.195Z"
+  }
+}]
