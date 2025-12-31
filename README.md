@@ -92,4 +92,3 @@ The Admin panel allows complete control over products, users, orders, and websit
     <li>MongoDB</li>
     <li>XAMPP or Laragon</li>
 </ul>
->>>>>>> b111020f510b9963d974f0bdd3e8da6a3a2a601a
