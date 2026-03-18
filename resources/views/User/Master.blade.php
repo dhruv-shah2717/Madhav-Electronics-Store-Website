@@ -238,7 +238,7 @@
                     <p>
                         Copyright &copy; 2024 All rights reserved 
                     </p>
-                    <p>Mr Dhruv Mehul Shah.</p>
+                    <p>Mr Dhruv Mehul Shah</p>
                 </div>
             </div>
         </footer>
