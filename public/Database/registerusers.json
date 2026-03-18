@@ -2,9 +2,9 @@
   "_id": {
     "$oid": "67bebb487710edbe2900ca13"
   },
-  "user_name": "Krishna",
+  "user_name": "Dhruv Shah",
   "user_role": "Admin",
-  "user_email": "DSHAH666@RKU.AC.IN",
+  "user_email": "DHRUVSHAH2717@GMAIL.COM",
   "user_otp": 110164,
   "updated_at": {
     "$date": "2025-03-21T16:45:11.672Z"
