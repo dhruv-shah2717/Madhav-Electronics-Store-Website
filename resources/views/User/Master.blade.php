@@ -237,10 +237,8 @@
                 <div class="copyright text-center">
                     <p>
                         Copyright &copy; 2024 All rights reserved 
-                        | This template is made by
-                        <span class="love-icon">❤️</span>Dhruv Shah
                     </p>
-                    <p>Developed by Mr. Dhruv M Shah.</p>
+                    <p>Mr Dhruv Mehul Shah.</p>
                 </div>
             </div>
         </footer>
