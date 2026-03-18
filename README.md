@@ -83,7 +83,7 @@ The Admin panel allows complete control over products, users, orders, and websit
 <ul>
     <li>Open MongoDB compass.</li>
     <li>Create a new database (example: Madhav).</li>
-    <li>Import the all files allcollections.sql.</li>
+    <li>Import the all files allcollections.json.</li>
     <li>Ensure <strong>MongoDB</strong> service is running.</li>
     <li>Configure MongoDB connection details in the <strong>.env</strong> file.</li>
     <li>Collections will be created automatically when the application runs.</li>
