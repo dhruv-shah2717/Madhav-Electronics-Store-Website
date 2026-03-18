@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <!-- Custom CSS -->
-    <link href="{{ asset('Css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('Css/App.css') }}" rel="stylesheet">
     
     <!-- Title Logo -->
     <link rel="icon" href="{{ asset('Images/Logo/Footerlogo.png') }}" type="image/png">
@@ -171,7 +171,7 @@
 <!-- Stat of Navbar, Body, Footer Section -->
 
 <!-- Link js file -->
-<script src="{{ asset('Js/app.js') }}"></script>
+<script src="{{ asset('Js/App.js') }}"></script>
 
 </body>
 </html>
