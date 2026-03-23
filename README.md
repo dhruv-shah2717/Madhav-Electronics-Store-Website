@@ -56,7 +56,7 @@ The Admin panel allows complete control over products, users, orders, and websit
 <h1>What Changes Have Been Made</h1>
 <ul>
     <li>Integrated <strong>MongoDB</strong> as the primary database.</li>
-    <li>Added the MongoDB database. The database file is provided in the project folder as public/Database allcollection.json.</li>
+    <li>Added the MongoDB database. The database file is provided in the project folder as public/Database/allcollection.json.</li>
     <li>Updated environment configuration for MongoDB connection.</li>
     <li>Renamed <strong>.env.example</strong> to <strong>.env</strong> and add the email credentials, Razorpay Key, and Secret Key.</li>
     <li>Installed Laravel dependencies using <strong>composer install</strong>.</li>
